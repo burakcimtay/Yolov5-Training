@@ -1,0 +1,6 @@
+train: ../dataset/train/images
+val: ../valid/images
+test: ../test/images
+
+nc: number_of_classes
+names: ['class_name_0', 'class_name_1', ...]
